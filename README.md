@@ -1,2 +1,2 @@
-# the-portal-mod
+# The Portal Mod
 Portal in Minecraft! (Modrinth Modpack)
